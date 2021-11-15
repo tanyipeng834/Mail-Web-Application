@@ -21,7 +21,7 @@ CSS and Bootstrap  is also  utilised with responsive web design principles appli
 
 # Deployment
 Please click on the image to be redirected to the Youtube link of this web application
-[![Watch the video](https://img.youtube.com/vi/nTQUwghvy5Q/default.jpg)](https://youtu.be/nTQUwghvy5Q)
+[![Mail Server Video ](https://img.youtube.com/vi/RurqXAiLmqE/default.jpg)](https://youtu.be/RurqXAiLmqE)
 
 Shows the 2 main functions of the Recipedia.
 1. Sending and Replying Emails
