@@ -1,0 +1,20 @@
+textarea {
+    min-height: 400px;
+}
+.content{
+    display:flex;
+}
+.content img{
+    width:3%;
+    height:auto;
+}
+.card-body{
+    border: 1px black solid;
+    margin-top: 3em;
+}
+.read{
+    background-color:lightgray;
+}
+.btn-secondary{
+    margin:3em;
+}

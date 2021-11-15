@@ -1,0 +1,15 @@
+{
+   
+    "configurations": [
+    {
+        "name": "Launch Chrome",
+        "request": "launch",
+        "type": "pwa-chrome",
+        "url": "http://localhost:8000",
+        "webRoot": "${workspaceFolder}/mail"
+    },
+        
+    
+    ]
+    
+}
